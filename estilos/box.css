@@ -4,4 +4,22 @@ div {
     display: block;
     width: 200px;
     height: 120px;
+    overflow: auto;
+    padding:10px;
+    border: solid 2px blue;
+    margin: 15px;
+    box-sizing: border-box;
+}
+#a{
+    background-color: red;
+
+}
+#b{
+    background-color: green;
+    padding: 20px 10px 5px 0px;
+    float: right;
+}
+#c{
+    background-color: grey;
+    float:right;
 }
